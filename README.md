@@ -58,5 +58,14 @@ predicting model using DL and Logistic Regression
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=SushobhanPal&style=for-the-badge&color=blueviolet)
+
+
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/SushobhanPal?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&plugin_activity=1&plugin_activity_limit=5&plugin_activity_days=14&plugin_activity_filter=all&config.timezone=Asia/Kolkata" />
+</p>
+
+
 
 
