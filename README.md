@@ -70,9 +70,6 @@ predicting model using DL and Logistic Regression
 
 
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1V-6-pmN1NS6wTZEgPZXEd6vDLquEBVFI/view?usp=sharing" />
-</p>
 
 
 
