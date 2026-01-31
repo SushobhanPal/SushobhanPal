@@ -66,6 +66,9 @@ predicting model using DL and Logistic Regression
 
 ## Github Stats
 
+![](https://github-readme-stats.vercel.app/api?username=SushobhanPal&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SushobhanPal&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SushobhanPal&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SushobhanPal&theme=github-dark)
 
 
