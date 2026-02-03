@@ -1,6 +1,6 @@
 # Hello 👋, I'm Sushobhan Pal
 
-Working On Data & Web, teaching the machine how to work like a human.
+Working On Data in web and Android, teaching the machine how to work like a human.
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/sushobhan-pal-970a35317/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
