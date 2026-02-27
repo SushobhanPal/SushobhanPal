@@ -7,7 +7,10 @@ Working On Data in web and Android, teaching the machine how to work like a huma
 
 <a href="https://x.com/SushobhannPal?t=nQXr1G74psfDX4h7B3KqFg&s=08" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> 
 
-<a href="https://www.instagram.com/sushobhann_pal/profilecard/?igsh=emZpaGlhcDdkeXpp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<a href="https://www.instagram.com/sushobhann_pal/profilecard/?igsh=emZpaGlhcDdkeXpp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+
+<a href="https://palportfolio-kohl.vercel.app/" target="_blank">Portfolio Website</a></p>
+
 <p>Email: sushobhanpalofficial@gmail.com</p>
 
 ## Skills
