@@ -1,6 +1,6 @@
 # Hello 👋, I'm Sushobhan Pal
 
-Working On Data in web and Android, teaching the machine how to work like a human.
+Making LLM's stop hallucinating, teaching the machine how to work like a human.
 
 ---
 
@@ -33,7 +33,7 @@ Working On Data in web and Android, teaching the machine how to work like a huma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
@@ -46,6 +46,24 @@ Working On Data in web and Android, teaching the machine how to work like a huma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+
+<!-- LangChain -->
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40"/>
+
+<!-- LangGraph -->
+<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="40"/>
+
+<!-- Redis -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+
+<!-- Qdrant -->
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" width="40"/>
+
+<!-- Android -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
 </p>
 
 ---
@@ -57,8 +75,8 @@ An ML-based modular system to filter fake digital content (text, image, and vide
 
 ---
 
-### 🔐 ThreatIntel
-A blockchain architecture-based IR sharing platform for cybersecurity and threat analysis.
+### 🔐 RAG- Chatbot
+A chat-bot to reduce hallucination of LLM, Multi Agentic framework with C-RAG and Self RAG 
 
 ---
 
